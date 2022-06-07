@@ -1,0 +1,3 @@
+x="My python cheat sheet"
+y=("append()","zip()","all()","any()","write()","open('string', a)", "len()","...")
+w="more content at w3schools.com"
